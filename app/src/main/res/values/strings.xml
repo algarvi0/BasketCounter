@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Basket Counter</string>
+    <string name="farense_logo">Farense Logo</string>
+    <string name="ginasio_logo">Ginásio Logo</string>
+    <string name="_0" translatable="false">0</string>
+    <string name="free_throw">+1</string>
+    <string name="_2_points">+2</string>
+    <string name="_3_points">+3</string>
+    <string name="faults">Faults</string>
+    <string name="steals">Steals</string>
+    <string name="rebounds">Rebounds</string>
+    <string name="reset">Start Game</string>
+    <string name="zero" translatable="false">0</string>
+</resources>
